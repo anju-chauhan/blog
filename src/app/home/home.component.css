@@ -1,13 +1,10 @@
 .category{
 	 list-style: none;
-	 display: flex;
-	 justify-content: space-between;
-	 background-color: blue;
-
 }
 
 .category li{
 	background: blue;
+	border: 2px solid #BFBFBF;
 	padding: 5px;
 	color: white;
 	font-weight: bold;
